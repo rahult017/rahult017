@@ -55,7 +55,6 @@ With **7+ years** of experience, I specialize in designing and delivering **scal
 [![Email](https://img.shields.io/badge/📧_Email_Me-rahult016@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:rahult016@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/rahult016-52209a145)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/🔗_Portfolio_/_Case_Studies-6E40C9?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=20)](https://your-portfolio.com)
 
 </div>
 
