@@ -1,79 +1,194 @@
 <div align="center">
 
-# Rahul Thakur  
-### Senior Backend Engineer & AI Systems Architect  
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Rahul+Thakur;Senior+Backend+Engineer+⚡;AI+Systems+Architect+🤖;Building+Scalable+Products+Every+Day+🚀" />
 
-**Scalable Backends • Generative AI • Clean Architecture • Domain-Driven Design**
+<h1>⚡ Rahul Thakur</h1>
 
----
+### 🧠 Senior Backend Engineer • 🤖 AI Systems Architect
 
-## 🚀 Tech Stack & Specialties  
+<img src="https://img.shields.io/badge/Building-Scalable%20Backends-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative-AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-black?style=for-the-badge"/>
 
-### **Backend Development**
-![Python](https://img.shields.io/badge/Python-FastAPI%20%7C%20Django%20%7C%20Flask-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Gin%20%7C%20Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### **AI & Machine Learning**
-![OpenAI](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents_/_Workflows-00A67E?style=for-the-badge)
-![Fine-tuning](https://img.shields.io/badge/Model_Fine--tuning-8A2BE2?style=for-the-badge)
-
-### **Frontend & Architecture**
-![React](https://img.shields.io/badge/React_/_React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge)
-![Event-Driven](https://img.shields.io/badge/Event--Driven_Systems-00B0F0?style=for-the-badge)
-![Observability](https://img.shields.io/badge/Observability-E6522C?style=for-the-badge)
-
----
-
-## 🧠 Professional Profile  
-
-With **7+ years** of experience, I specialize in designing and delivering **scalable, maintainable backend systems** and **AI-powered products** for startups and established companies.  
-
-**Core Focus Areas:**  
-• Clean Architecture & Domain-Driven Design  
-• High-Performance APIs & System Optimization  
-• Generative AI Integration & LLM Systems  
-• Real-time Data Processing & Event-Driven Architectures  
-• Comprehensive Observability & Monitoring  
-
----
-
-## 📬 Connect & Collaborate  
-
-### **Open to Opportunities**  
-**Full‑time** • **Consulting** • **Architecture Partnerships** • **Technical Leadership**
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 2rem 0;">
-
-[![Email](https://img.shields.io/badge/📧_Email_Me-rahult016@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:rahult016@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/rahult016-52209a145)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/yourusername)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer"/>
 
 </div>
 
 ---
 
-## 💡 Let's Build Something Amazing  
+# 🌌 About Me
 
-> **"I thrive on solving complex technical challenges and turning innovative ideas into robust, scalable solutions. Let's discuss how we can create impact together."**
+```yaml
+Name: Rahul Thakur
 
-<details>
-<summary><b>📋 Quick Contact Form (Click to Expand)</b></summary>
-<br>
+Experience: 7+ Years
 
-**Prefer a direct message?**  
-Copy and fill this template:
+Role:
+  - Senior Backend Engineer
+  - AI Systems Architect
 
-```text
-📋 Project Inquiry: [Brief Description]
-🎯 Goal: [What you want to achieve]
-⏱️ Timeline: [Urgent/1-3 months/Planning]
-💰 Budget: [Range if applicable]
-📞 Best way to connect: [Email/Call/Meeting]
+Current Focus:
+  - Generative AI
+  - Multi-Agent Systems
+  - Distributed Systems
+  - High Performance APIs
+
+Architecture:
+  - Clean Architecture
+  - Domain Driven Design
+  - Event Driven Systems
+  - Microservices
+```
+
+---
+
+# ⚡ Tech Universe
+
+## 🚀 Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,flask,postgres,redis,docker,kubernetes"/>
+
+</p>
+
+---
+
+## 🤖 AI Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/RAG-Pipelines-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Agents-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fine-Tuning-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript"/>
+
+</p>
+
+---
+
+# 📊 Developer Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 What I Build
+
+✨ Enterprise APIs
+
+🤖 AI Products
+
+⚡ Multi-Agent Workflows
+
+🧠 LLM Applications
+
+🌐 SaaS Platforms
+
+☁️ Cloud Native Systems
+
+📦 Distributed Architectures
+
+🔄 Event Driven Platforms
+
+---
+
+# 💎 Engineering Principles
+
+🧩 Clean Architecture
+
+🏛️ Domain Driven Design
+
+⚡ Performance First
+
+🔒 Secure by Default
+
+📈 Scalability
+
+🧪 Test Driven Development
+
+📊 Observability
+
+🚀 Continuous Delivery
+
+---
+
+# 🌱 Currently Exploring
+
+- Autonomous AI Agents
+- MCP Servers
+- LangGraph
+- Distributed AI Systems
+- High Throughput Go Services
+
+---
+
+# 🛠️ Toolbox
+
+| Backend | AI | DevOps | Database |
+|---------|----|---------|-----------|
+| FastAPI | OpenAI | Docker | PostgreSQL |
+| Django | LangChain | Kubernetes | Redis |
+| Flask | RAG | GitHub Actions | MongoDB |
+| Go | Multi-Agent | Linux | Elasticsearch |
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="mailto:rahult016@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rahult016-52209a145">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Random Dev Quote
+
+> "Code should tell a story. Architecture should make that story scalable."
+
+---
+
+<div align="center">
+
+## ⚡ Let's Build the Future Together
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff"/>
+
+</div>
