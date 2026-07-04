@@ -17,13 +17,13 @@
 
 <!-- 3D Floating Badges -->
 <p>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:rahult016@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27&color=7C3AED&style=for-the-badge&box-shadow=0 0 20px #7C3AED" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/rahult016-52209a145/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27&color=0077B5" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/rahult017">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&labelColor=1A1B27&color=181717" />
   </a>
 </p>
@@ -154,7 +154,7 @@
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahult017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3" />
 </p>
 
 <br/>
