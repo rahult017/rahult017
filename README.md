@@ -1,52 +1,77 @@
 <div align="center">
 
-# 👋 Hi, I'm Rahul Thakur
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00F5FF,100:7C3AED&text=RAHUL%20THAKUR&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20•%20Backend%20Engineer&descAlignY=58"/>
 
-### AI Systems Architect • Senior Backend Engineer • GenAI Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Building+AI+That+Scales;FastAPI+•+Go+•+LLMs;Multi-Agent+Systems;Cloud+Native+AI)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+Production+AI+Applications;FastAPI+%7C+Go+%7C+LLMs;Multi-Agent+Systems;Always+Learning+🚀)](https://git.io/typing-svg)
-
-[![GitHub](https://img.shields.io/badge/GitHub-rahult017-181717?style=for-the-badge&logo=github)](https://github.com/rahult017)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Thakur-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahult016-52209a145)
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:rahult016@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=rahult017&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍🚀 About
 
-- 💼 Senior Backend Engineer with **7+ years**
-- 🤖 Building **AI Agents & Enterprise RAG**
-- ⚡ Expert in **FastAPI, Python & Go**
-- ☁️ Cloud Native & Distributed Systems
-- 🌱 Currently exploring **MCP, LangGraph & AI Infrastructure**
+```ts
+const rahul = {
+    role: "AI Systems Architect",
+    experience: "7+ Years",
+    location: "🇮🇳 India",
+
+    stack: [
+        "Python",
+        "Go",
+        "FastAPI",
+        "LangGraph",
+        "Docker",
+        "Kubernetes"
+    ],
+
+    building: "Enterprise AI Platforms",
+
+    motto: "Ship AI. Ship Fast."
+}
+```
 
 ---
 
-## 🛠 Tech Stack
+# ⚡ Tech Universe
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,react,nextjs,docker,kubernetes,postgres,redis,mongodb,linux,git&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,react,nextjs,docker,kubernetes,postgres,redis,mongodb,linux,git&theme=dark"/>
 
 </p>
 
 ---
 
-## 🤖 AI Stack
+# 🤖 AI Ecosystem
 
-- GPT-5 / Claude / Gemini
-- LangChain & LangGraph
-- MCP Servers
-- Enterprise RAG
-- Multi-Agent Systems
-- OpenAI APIs
-- Qdrant / Pinecone
+<div align="center">
+
+| 🧠 LLM | ⚡ Framework | 🚀 Infra |
+|:------:|:-----------:|:--------:|
+| GPT-5 | LangGraph | Kubernetes |
+| Claude | CrewAI | Docker |
+| Gemini | MCP | Redis |
+| OpenAI | RAG | PostgreSQL |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+| Project | Tech |
+|---------|------|
+| 🤖 Multi-Agent Platform | FastAPI • LangGraph |
+| 📚 Enterprise RAG | OpenAI • Qdrant |
+| ⚡ FastAPI Boilerplate | Docker • K8s |
+| 🚀 Go APIs | Go • PostgreSQL |
+
+---
+
+# 📊 GitHub Dashboard
 
 <p align="center">
 
@@ -58,48 +83,35 @@
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahult017&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahult017&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🌱 Currently Building
 
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Multi-Agent Platform | Distributed AI Agents |
-| 📚 Enterprise RAG | Production Knowledge Assistant |
-| ⚡ FastAPI Boilerplate | Clean Architecture |
-| 🚀 Go Microservices | High Performance APIs |
-
----
-
-## 🌱 Currently Building
-
-- 🤖 AI Agents
-- 🧠 MCP Servers
-- ⚡ LangGraph Workflows
-- ☁️ Cloud Native APIs
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-
-<a href="mailto:rahult016@gmail.com">📧 Email</a> •
-<a href="https://linkedin.com/in/rahult016-52209a145">LinkedIn</a> •
-<a href="https://github.com/rahult017">GitHub</a>
-
-</p>
+```text
+🤖 AI Agents
+🧠 MCP Servers
+⚡ LangGraph
+☁️ Cloud Native APIs
+🚀 Go Microservices
+📚 Enterprise RAG
+```
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=120&section=footer"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rahult017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahult016-52209a145)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:rahult016@gmail.com)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7C3AED,50:00F5FF,100:3B82F6&section=footer&text=BUILDING%20THE%20FUTURE&fontColor=ffffff&fontSize=28"/>
 
 </div>
