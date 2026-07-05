@@ -1,208 +1,818 @@
-<div align="center">
+# <div align="center">
 
-<!-- 3D Avatar Sphere -->
-<img src="YOUR_AVATAR_IMAGE_URL" width="160" style="border-radius: 50%; border: 4px solid #7C3AED; box-shadow: 0 0 40px #7C3AED80; margin-bottom: 20px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7C3AED,50:3B82F6,100:06B6D4&text=Rahul%20Thakur&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20•%20Backend%20Engineer%20•%20Agentic%20AI%20Builder&descAlignY=58"/>
 
-<!-- Glitch Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=40&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&width=800&lines=RAHUL+THAKUR;AI+SYSTEMS+ARCHITECT;BUILDING+THE+FUTURE+STACK" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Senior+Backend+Engineer;AI+Systems+Architect;Building+Production+LLM+Applications;FastAPI+%7C+Go+%7C+Distributed+Systems;Multi-Agent+Architectures;Always+Learning+Always+Shipping)](https://git.io/typing-svg)
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=rahult017&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
-<!-- Animated Subtitle -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=16&duration=3000&pause=1000&color=2CB67D&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer+%7C+7%2B+Years+Deep;Generative+AI+%7C+Multi-Agent+Architectures;FastAPI+%7C+Go+%7C+LLMs+%7C+Distributed+Systems" alt="Subtitle" />
-</p>
-
-<br/>
-
-<!-- 3D Floating Badges -->
-<p>
-  <a href="mailto:rahult016@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27&color=7C3AED&style=for-the-badge&box-shadow=0 0 20px #7C3AED" />
-  </a>
-  <a href="https://www.linkedin.com/in/rahult016-52209a145/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27&color=0077B5" />
-  </a>
-  <a href="https://github.com/rahult017">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&labelColor=1A1B27&color=181717" />
-  </a>
-</p>
-
-<!-- Animated Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+STALKERS" />
+[![GitHub](https://img.shields.io/badge/GitHub-rahult017-181717?style=for-the-badge&logo=github)](https://github.com/rahult017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Thakur-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahult016-52209a145)
+[![Email](https://img.shields.io/badge/Gmail-rahult016@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:rahult016@gmail.com)
 
 </div>
 
-<br/>
+---
 
-<!-- 3D Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+# 👨‍💻 About Me
 
-<br/>
+```typescript
+const rahul = {
 
-<!-- Hero Section with 3D Card -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FjZDkzNjcxNmIxMjQ3NTQyM2RjMjQ2MjI1YzYxMjg3NjVmYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Brain" />
-      </td>
-      <td align="left">
-        <pre style="background:#0D1117; border: 1px solid #7C3AED40; border-radius: 12px; padding: 20px; color: #E6EDF3; box-shadow: 0 0 30px #7C3AED20;">
-<span style="color: #7C3AED;">const</span> rahul = {
-  <span style="color: #2CB67D;">role</span>: <span style="color: #E6EDF3;">"AI Systems Architect"</span>,
-  <span style="color: #2CB67D;">stack</span>: [<span style="color: #E6EDF3;">"FastAPI"</span>, <span style="color: #E6EDF3;">"Go"</span>, <span style="color: #E6EDF3;">"LLMs"</span>, <span style="color: #E6EDF3;">"RAG"</span>],
-  <span style="color: #2CB67D;">vibe</span>: <span style="color: #E6EDF3;">"Gen Z Pro Max"</span>,
-  <span style="color: #2CB67D;">mission</span>: <span style="color: #E6EDF3;">() => "Ship AI that scales."</span>,
-};
-        </pre>
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=2CB67D&text_color=E6EDF3" width="400" />
-      </td>
-    </tr>
-  </table>
-</div>
+    role: "Senior Backend Engineer",
 
-<br/>
+    experience: "7+ Years",
 
-<!-- Stats Dashboard with Neon Effect -->
-<div align="center">
+    location: "India 🇮🇳",
 
-| ⚡ POWER LEVEL | 📦 SHIPMENTS | 🧠 AI AGENTS | ⚙️ API CALLS/DAY |
-|:---:|:---:|:---:|:---:|
-| `7+ YEARS` | `30+` | `15+ DEPLOYED` | `2M+` |
+    currentlyBuilding: [
+        "Enterprise AI Agents",
+        "Multi-Agent Systems",
+        "LangGraph Workflows",
+        "MCP Servers",
+        "FastAPI Platforms",
+        "Distributed Go Services"
+    ],
 
-</div>
+    expertise: [
 
-<br/>
+        "LLMs",
 
-<!-- 3D Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+        "RAG",
 
-<br/>
+        "FastAPI",
 
-<div align="center">
-  <h2>⚡ THE ULTIMATE STACK ⚡</h2>
-</div>
+        "Python",
 
-<!-- Tech Stack with Glow -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,react,nextjs,typescript,docker,kubernetes,postgres,redis,mongodb,linux,git,github&theme=dark&perline=8" />
-</p>
+        "Go",
 
-<br/>
+        "Docker",
 
-<!-- AI Stack with 3D Glassmorphism -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🤖_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117&color=7C3AED" />
-  <img src="https://img.shields.io/badge/🔗_LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117&color=2CB67D" />
-  <img src="https://img.shields.io/badge/🕸️_LangGraph-7C3AED?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117&color=8B5CF6" />
-  <img src="https://img.shields.io/badge/📚_RAG-Pipelines-orange?style=for-the-badge&labelColor=0D1117&color=orange" />
-  <img src="https://img.shields.io/badge/👾_Multi--Agent-green?style=for-the-badge&labelColor=0D1117&color=2CB67D" />
-  <img src="https://img.shields.io/badge/🎯_Fine--Tuning-purple?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
-</div>
+        "Kubernetes",
 
-<br/>
+        "Redis",
 
-<!-- 3D Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+        "PostgreSQL"
 
-<br/>
+    ],
 
-<!-- Featured Projects with 3D Cards -->
-<div align="center">
-  <h2>🚀 FEATURED BUILDS</h2>
-</div>
+    lifePhilosophy() {
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center" style="background:#0D1117; border: 1px solid #7C3AED40; border-radius: 16px; padding: 15px; box-shadow: 0 0 30px #7C3AED20;">
-        <h3>🤖 AI Multi-Agent</h3>
-        <sub><code>FastAPI • PostgreSQL • Redis</code></sub><br/>
-        <sub><i>Distributed Agent Swarms</i></sub>
-      </td>
-      <td width="33%" align="center" style="background:#0D1117; border: 1px solid #7C3AED40; border-radius: 16px; padding: 15px; box-shadow: 0 0 30px #7C3AED20;">
-        <h3>⚡ FastAPI Boilerplate</h3>
-        <sub><code>Clean Arch • Docker • K8s</code></sub><br/>
-        <sub><i>Production-Ready Scaffold</i></sub>
-      </td>
-      <td width="33%" align="center" style="background:#0D1117; border: 1px solid #7C3AED40; border-radius: 16px; padding: 15px; box-shadow: 0 0 30px #7C3AED20;">
-        <h3>📚 Enterprise RAG</h3>
-        <sub><code>OpenAI • LangChain • Qdrant</code></sub><br/>
-        <sub><i>Context-Aware Retrieval</i></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+        return "Build AI that actually scales.";
 
-<br/>
+    }
 
-<!-- 3D Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+}
+```
 
-<br/>
+---
 
-<!-- GitHub Analytics with Hologram Effect -->
-<div align="center">
-  <h2>📈 HOLOGRAPHIC ANALYTICS</h2>
-</div>
+# ⚡ Tech Universe
+
+## Languages
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=2CB67D&text_color=E6EDF3&ring_color=7C3AED" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=8B5CF6&sideNums=E6EDF3&sideLabels=E6EDF3&dates=7C3AED" />
+
+<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,bash"/>
+
 </p>
+
+---
+
+## Backend
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahult017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3" />
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>
+
 </p>
 
-<br/>
+---
 
-<!-- Trophies with Neon Glow -->
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+
+</p>
+
+---
+
+## Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp"/>
+
+</p>
+
+---
+
+## Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
+
+</p>
+
+---
+
+## DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,grafana,prometheus"/>
+
+</p>
+
+---
+
+# 🤖 AI Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| LLMs | GPT-4o, GPT-5, Claude, Gemini |
+| Frameworks | LangChain, LangGraph, CrewAI |
+| Agent Systems | MCP, AutoGen, Multi-Agent |
+| Vector DB | Pinecone, Weaviate, Qdrant |
+| Embeddings | OpenAI, VoyageAI |
+| Speech | Whisper |
+| Deployment | Docker, Kubernetes |
+| APIs | FastAPI |
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Agentic AI
+- 🧠 MCP Servers
+- ⚡ LangGraph
+- 📚 Enterprise RAG
+- ☁️ Cloud Native APIs
+- 🐳 Kubernetes
+- 🚀 Go Microservices
+- 🔥 High Performance FastAPI
+
+---
+
+# 📊 Engineering Stats
+
+| Experience | Projects | APIs/day | AI Systems |
+|------------|----------|----------|------------|
+| **7+ Years** | **30+** | **2M+** | **15+** |
+
+---
+
+# 🧠 AI Ecosystem
+
+```text
+                User
+
+                  │
+
+          FastAPI Gateway
+
+                  │
+
+        LangGraph Controller
+
+        ↙      ↓       ↘
+
+ Retrieval   Planner   Memory
+
+      ↓         ↓         ↓
+
+ VectorDB   GPT-5    PostgreSQL
+
+      ↓         ↓         ↓
+
+       Final Intelligent Response
+```
+
+---
+
+# 🔥 Featured Projects
+
+## 🤖 AI Multi-Agent Platform
+
+Production-ready distributed AI Agents.
+
+**Stack**
+
+- FastAPI
+- PostgreSQL
+- Redis
+- LangGraph
+- OpenAI
+
+---
+
+## 📚 Enterprise RAG
+
+Semantic Search + Enterprise Knowledge Assistant.
+
+---
+
+## ⚡ FastAPI Boilerplate
+
+Production architecture with Docker + Kubernetes.
+
+---
+
+## 🚀 Distributed Go Services
+
+Microservice ecosystem capable of handling millions of requests.
+
+---
+
+# 🎯 Currently Learning
+
+- MCP Protocol
+- AI Infrastructure
+- Kubernetes Operators
+- Distributed AI Systems
+- Advanced Go Concurrency
+- AI Observability
+- LlamaIndex
+- DSPy
+
+# 📈 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Followers,Stars,Repositories,Experience" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahult017&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahult017&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<br/>
+---
 
-<!-- 3D Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+# 🔥 GitHub Streak
 
-<br/>
-
-<!-- Currently Building with 3D Wave -->
 <div align="center">
-  <h2>🌱 CURRENTLY ARCHITECTING</h2>
-  <p>
-    <code>🤖 AI Agents</code> • 
-    <code>🧠 MCP Servers</code> • 
-    <code>⚡ LangGraph Flows</code> • 
-    <code>☁️ Cloud Native APIs</code> • 
-    <code>📦 Distributed Go Services</code>
-  </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rahult017&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<br/>
+---
 
-<!-- Connect Section with 3D Glowing Orbs -->
+# 📊 Contribution Graph
+
 <div align="center">
-  <h2>📡 ESTABLISH UPLINK</h2>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=EA4335" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0077B5" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=7C3AED" />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahult017&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
-<br/>
-<br/>
+---
 
-<!-- Footer with 3D Capsule -->
+# 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2CB67D&height=200&section=footer&text=BUILDING%20THE%20FUTURE%20ONE%20COMMIT%20AT%20A%20TIME&fontColor=ffffff&fontSize=18&fontAlignY=80&animation=fadeIn&desc=©%202024%20RAHUL%20THAKUR%20•%20AI%20SYSTEMS%20ARCHITECT&descAlignY=95" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=rahult017&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Create this using GitHub Actions** (`Platane/snk`).
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@v3
+
+        with:
+          github_user_name: rahult017
+
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After enabling the workflow, add:
+
+```markdown
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/rahult017/rahult017/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+```
+
+---
+
+# 🚀 Engineering Roadmap
+
+| Status | Goal |
+|---------|------|
+| ✅ | Production FastAPI |
+| ✅ | Distributed Systems |
+| ✅ | Kubernetes |
+| ✅ | AI APIs |
+| ✅ | RAG Systems |
+| 🚀 | Multi-Agent Platforms |
+| 🚀 | MCP Servers |
+| 🚀 | AI Infrastructure |
+| 🎯 | AI Platform Engineering |
+| 🎯 | Distributed LLM Runtime |
+
+---
+
+# 🧠 AI Expertise
+
+```text
+                    AI Engineering
+
+                         │
+
+      ┌──────────────────┼──────────────────┐
+
+      │                  │                  │
+
+   Backend             GenAI             DevOps
+
+      │                  │                  │
+
+ FastAPI            GPT-5              Docker
+
+ Go                 LangGraph          Kubernetes
+
+ Redis              CrewAI             Linux
+
+ PostgreSQL         OpenAI             CI/CD
+
+ APIs               RAG                Monitoring
+
+```
+
+---
+
+# ⚙️ Production Stack
+
+```mermaid
+flowchart LR
+
+A[Users]
+
+↓
+
+B[FastAPI Gateway]
+
+↓
+
+C[Load Balancer]
+
+↓
+
+D[LangGraph]
+
+↓
+
+E[AI Agents]
+
+↓
+
+F[Redis Memory]
+
+↓
+
+G[Vector Database]
+
+↓
+
+H[GPT-5]
+
+↓
+
+I[Final Response]
+```
+
+---
+
+# ☁️ Deployment Architecture
+
+```text
+               Internet
+
+                   │
+
+             Load Balancer
+
+                   │
+
+             Kubernetes Cluster
+
+       ┌───────────┼────────────┐
+
+       │           │            │
+
+   FastAPI     Go Service    AI Worker
+
+       │           │            │
+
+       └───────────┼────────────┘
+
+             PostgreSQL
+
+             Redis
+
+             Vector DB
+
+             GPT APIs
+```
+
+---
+
+# 🎯 2026 Focus
+
+## AI Engineering
+
+- Agentic AI
+- MCP Protocol
+- AI Platform Engineering
+- Multi-Agent Systems
+- Prompt Engineering
+- LLMOps
+- AI Infrastructure
+
+---
+
+## Backend
+
+- FastAPI
+- Go
+- Distributed Systems
+- Async Python
+- gRPC
+- GraphQL
+- Event-Driven Architecture
+
+---
+
+## Cloud
+
+- Kubernetes
+- Docker
+- Terraform
+- GitHub Actions
+- Prometheus
+- Grafana
+
+---
+
+# 📚 Knowledge Areas
+
+| Backend | AI | Infrastructure |
+|----------|----|----------------|
+| FastAPI | GPT-5 | Kubernetes |
+| Go | LangGraph | Docker |
+| Django | CrewAI | AWS |
+| PostgreSQL | OpenAI | GCP |
+| Redis | RAG | CI/CD |
+| Kafka | Embeddings | Linux |
+
+---
+
+# 📜 Certifications (Add Yours)
+
+- ✅ AWS Certified *(Optional)*
+- ✅ Google Cloud *(Optional)*
+- ✅ Kubernetes *(Optional)*
+- ✅ Azure AI *(Optional)*
+- ✅ Databricks *(Optional)*
+
+---
+
+# ✍️ Blogs & Writing
+
+Coming soon...
+
+- AI Engineering
+- FastAPI Architecture
+- Distributed Systems
+- Building Agentic AI
+- MCP Servers
+- Kubernetes for AI
+- Enterprise RAG
+- Production LLMs
+
+---
+
+# 💡 Favorite Quote
+
+> **"Any sufficiently advanced technology is indistinguishable from magic."**
+>
+> — Arthur C. Clarke
+
+---
+
+# 🌍 Open Source Goals
+
+- 🚀 Build AI Frameworks
+- 📦 Publish Production Boilerplates
+- 🤝 Mentor Developers
+- 🧠 Share AI Knowledge
+- 🌟 Contribute to OSS
+
+---
+
+# ⚡ Fun Facts
+
+- ☕ Coffee → Code → Deploy → Repeat
+- 🤖 AI is my playground
+- 🐍 Python + Go is my favorite combo
+- 🚀 I enjoy solving distributed systems challenges
+- 🌙 Most productive late at night
+
+# 🌱 Currently Building
+
+<div align="center">
+
+| 🚀 Project | ⚡ Status | 🛠️ Tech |
+|------------|----------|----------|
+| Multi-Agent AI Platform | 🟢 Active | FastAPI · LangGraph · OpenAI |
+| Enterprise RAG | 🟢 Active | Qdrant · PostgreSQL · Redis |
+| MCP Server Framework | 🟡 Research | MCP · Python · AsyncIO |
+| Go Microservices | 🟢 Active | Go · gRPC · Docker |
+| AI Developer Platform | 🔥 Building | Kubernetes · FastAPI |
+
+</div>
+
+---
+
+# 🧩 AI Toolbox
+
+<div align="center">
+
+| AI | Backend | Cloud | DevOps |
+|----|---------|--------|---------|
+| GPT-5 | FastAPI | AWS | Docker |
+| Claude | Django | GCP | Kubernetes |
+| Gemini | Go | Azure | GitHub Actions |
+| LangGraph | Python | Cloud Run | Terraform |
+| CrewAI | Node.js | Lambda | Prometheus |
+| OpenAI | REST APIs | DigitalOcean | Grafana |
+
+</div>
+
+---
+
+# 📅 Weekly Development Breakdown
+
+> *(Optional: Enable WakaTime and replace the placeholder with your own stats.)*
+
+```text
+Python        ████████████████████░   48%
+Go            ███████████░░░░░░░░░░   25%
+FastAPI       █████████░░░░░░░░░░░░   12%
+AI / LLMs     ███████░░░░░░░░░░░░░░    8%
+Docker        ████░░░░░░░░░░░░░░░░░    4%
+Other         ██░░░░░░░░░░░░░░░░░░░    3%
+```
+
+---
+
+# 🎯 2026 Mission
+
+```text
+                 Build.
+
+                    ↓
+
+              Learn Faster.
+
+                    ↓
+
+            Solve Real Problems.
+
+                    ↓
+
+          Create AI That Scales.
+
+                    ↓
+
+             Contribute Back.
+
+                    ↓
+
+              Repeat Forever.
+```
+
+---
+
+# 🛰️ Current Technology Radar
+
+### 🤖 Artificial Intelligence
+
+- GPT-5
+- Claude
+- Gemini
+- LangGraph
+- CrewAI
+- AutoGen
+- MCP Protocol
+- Prompt Engineering
+- Agentic AI
+- AI Workflows
+
+---
+
+### ⚙️ Backend Engineering
+
+- FastAPI
+- Go
+- Django
+- Async Python
+- REST APIs
+- GraphQL
+- gRPC
+- Event-Driven Systems
+
+---
+
+### ☁️ Infrastructure
+
+- Docker
+- Kubernetes
+- Linux
+- PostgreSQL
+- Redis
+- Nginx
+- Prometheus
+- Grafana
+
+---
+
+# 📈 2026 Goals
+
+- 🚀 Build an Open Source AI Framework
+- 🤖 Launch Production Multi-Agent Platform
+- 🌍 Reach 5K+ GitHub Stars
+- 🧠 Master AI Infrastructure
+- ☁️ Build Cloud Native AI Systems
+- 📦 Release FastAPI Enterprise Boilerplate
+- 📝 Publish Technical Blogs
+- 🎤 Speak at Developer Conferences
+
+---
+
+# 💼 Available For
+
+- ✅ AI Engineering
+- ✅ Backend Engineering
+- ✅ FastAPI Development
+- ✅ Go Development
+- ✅ AI Consulting
+- ✅ Enterprise RAG
+- ✅ AI Architecture
+- ✅ Cloud Native Applications
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-rahult016@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahult016@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Thakur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahult016-52209a145)
+
+[![GitHub](https://img.shields.io/badge/GitHub-rahult017-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahult017)
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+If you enjoy my work, consider giving a ⭐ to my repositories.
+
+Open Source keeps growing because of amazing developers like you ❤️
+
+---
+
+# 💻 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 😂 Random Developer Meme
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+
+</div>
+
+---
+
+# 📊 GitHub Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahult017&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahult017&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahult017&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahult017&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahult017&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🎵 Spotify (Optional)
+
+> Replace with your own Spotify widget if you use Spotify.
+
+```markdown
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?...)](...)
+```
+
+---
+
+# 📰 Latest Blog Posts (Optional)
+
+<!-- BLOG-POST-LIST:START -->
+- Coming Soon...
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# 📌 Pinned Repositories
+
+> Pin your best repositories on your GitHub profile for maximum impact.
+
+Suggested repositories:
+
+- 🤖 AI Multi-Agent Platform
+- 📚 Enterprise RAG
+- ⚡ FastAPI Boilerplate
+- 🐳 Kubernetes Templates
+- 🚀 Go Microservices
+- 🔥 MCP Server Framework
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=rahult017&style=for-the-badge&color=7C3AED)
+
+</div>
+
+---
+
+# 💚 Thanks for Visiting
+
+<div align="center">
+
+### ⭐ If you like my work, consider following me!
+
+### 🚀 Building the Future, One Commit at a Time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:7C3AED,50:3B82F6,100:06B6D4&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=34&fontAlignY=70&animation=fadeIn"/>
+
 </div>
