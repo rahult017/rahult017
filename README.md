@@ -1,111 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00F5FF,100:7C3AED&text=RAHUL%20THAKUR&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20•%20Backend%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1E293B,100:334155&text=RAHUL%20THAKUR&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=AI%20Systems%20Architect%20%7C%20Backend%20Engineer&descAlignY=62&descAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Building+AI+That+Scales;FastAPI+•+Go+•+LLMs;Multi-Agent+Systems;Cloud+Native+AI)](https://git.io/typing-svg)
+**AI Systems Architect · 7+ Years Building Production AI Platforms**
 
-<img src="https://komarev.com/ghpvc/?username=rahult017&style=for-the-badge&color=7C3AED"/>
-
-**Shipping AI systems that hit different — no cap.**
-
-</div>
-
----
-
-## 👨‍🚀 About Me
-
-AI Systems Architect with 7+ years of experience designing and shipping production-grade AI platforms, multi-agent systems, and cloud-native backend infrastructure. Focused on scalable, real-world AI — not just prototypes.
-
-```ts
-const rahul = {
-    role: "AI Systems Architect",
-    experience: "7+ Years",
-    location: "India",
-    stack: ["Python", "Go", "FastAPI", "LangGraph", "Docker", "Kubernetes"],
-    focus: "Enterprise AI Platforms",
-    motto: "Ship AI. Ship Fast."
-}
-```
-
----
-
-## 🧠 Core Skills
-
-**Languages:** Python, Go, TypeScript, SQL
-**Backend Frameworks:** FastAPI, Django, Node.js
-**AI / ML:** LLMs, RAG, Multi-Agent Systems, Prompt Engineering, LangGraph, CrewAI, MCP (Model Context Protocol)
-**Cloud & Infra:** Docker, Kubernetes, AWS, CI/CD, Microservices
-**Databases:** PostgreSQL, MongoDB, Redis, Qdrant (Vector DB)
-**Frontend:** React, Next.js
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,react,nextjs,docker,kubernetes,postgres,redis,mongodb,linux,git&theme=dark"/>
-</p>
-
----
-
-## 🤖 AI Ecosystem
-
-| LLM Models | Frameworks | Infrastructure |
-|:-----------|:-----------|:----------------|
-| GPT-5 | LangGraph | Kubernetes |
-| Claude | CrewAI | Docker |
-| Gemini | MCP | Redis |
-| OpenAI | RAG | PostgreSQL |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|--------------|------------|
-| Multi-Agent Platform | Orchestrated AI agent workflows for enterprise automation | FastAPI, LangGraph |
-| Enterprise RAG System | Retrieval-augmented generation pipeline for internal knowledge search | OpenAI, Qdrant |
-| FastAPI Boilerplate | Production-ready starter template for scalable APIs | Docker, Kubernetes |
-| Go Microservice APIs | High-performance backend services | Go, PostgreSQL |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahult017&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rahult017&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahult017&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌱 Currently Building
-
-- AI Agents & Autonomous Workflows
-- MCP Servers (Model Context Protocol)
-- LangGraph Orchestration Pipelines
-- Cloud-Native APIs
-- Go Microservices
-- Enterprise RAG Systems
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rahult017)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahult016-52209a145)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:rahult016@gmail.com)
-
-**Open to collaborating on AI platforms, agent systems, and backend architecture.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7C3AED,50:00F5FF,100:3B82F6&section=footer&text=BUILDING%20THE%20FUTURE&fontColor=ffffff&fontSize=28"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahult016-52209a145)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rahult016@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahult017)
 
 </div>
+
+---
+
+## Summary
+
+AI Systems Architect and Backend Engineer with 7+ years of experience designing, building, and scaling production AI platforms. Specialized in multi-agent systems, retrieval-augmented generation (RAG), and cloud-native backend infrastructure. Proven track record shipping systems that move from prototype to production reliably.
+
+---
+
+## Core Expertise
+
+**Languages:** Python · Go · TypeScript · SQL
+**Backend & APIs:** FastAPI · Django · Node.js · Microservices Architecture
+**Artificial Intelligence:** LLM Application Development · Retrieval-Augmented Generation (RAG) · Multi-Agent Systems · LangGraph · CrewAI · Model Context Protocol (MCP) · Prompt Engineering
+**Cloud & DevOps:** Docker · Kubernetes · AWS · CI/CD Pipelines
+**Data & Storage:** PostgreSQL · MongoDB · Redis · Qdrant (Vector Database)
+**Frontend:** React · Next.js
+
+---
+
+## Professional Highlights
+
+*(Replace the bracketed items with your real, quantified achievements — specific numbers are what make a hiring manager stop scrolling.)*
+
+- Architected and shipped [X] production AI systems serving [Y] users / requests per day
+- Reduced [latency / infra cost / processing time] by [Z%] through [specific optimization]
+- Led or contributed to a team of [N] engineers delivering [product/platform name]
+- Built and deployed a Retrieval-Augmented Generation pipeline handling [scale/use case]
+- Designed multi-agent orchestration systems used in [production environment/client]
+
+---
+
+## Featured Projects
+
+### Multi-Agent Orchestration Platform
+Production system coordinating autonomous AI agents for enterprise workflow automation.
+**Stack:** FastAPI, LangGraph, Kubernetes
+**Impact:** *[Add outcome — e.g., "Automated X hours of manual work per week"]*
+
+### Enterprise RAG System
+Retrieval-augmented generation pipeline built for internal knowledge search across large, unstructured datasets.
+**Stack:** OpenAI, Qdrant, PostgreSQL
+**Impact:** *[Add outcome — e.g., "Cut information retrieval time from hours to seconds"]*
+
+### FastAPI Production Boilerplate
+Reusable, production-ready starter architecture for scalable backend APIs, adopted across multiple internal projects.
+**Stack:** Docker, Kubernetes, FastAPI
+
+### Go Microservices Suite
+High-throughput backend services built for performance-critical workloads.
+**Stack:** Go, PostgreSQL
+
+---
+
+## GitHub Activity
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahult017&show_icons=true&theme=default&hide_border=true&hide_title=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rahult017&theme=default&hide_border=true"/>
+</p>
+
+---
+
+## Currently Focused On
+
+- Designing MCP-based agent tooling for enterprise AI adoption
+- Optimizing RAG retrieval accuracy and latency at scale
+- Building cloud-native, Kubernetes-first backend architecture
+- Exploring Go for high-performance AI infrastructure
+
+---
+
+## Contact
+
+Open to conversations about AI platform architecture, backend engineering roles, and technical leadership opportunities.
+
+**Email:** rahult016@gmail.com
+**LinkedIn:** [linkedin.com/in/rahult016](https://linkedin.com/in/rahult016)
+**GitHub:** [github.com/rahult017](https://github.com/rahult017)
+**Offical ID** @rahult016
