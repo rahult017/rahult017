@@ -6,129 +6,105 @@
 
 <img src="https://komarev.com/ghpvc/?username=rahult017&style=for-the-badge&color=7C3AED"/>
 
-**shipping AI that hits different, no cap 🛸**
+**Shipping AI systems that hit different — no cap.**
 
 </div>
 
 ---
 
-# 👨‍🚀 The Vibe
+## 👨‍🚀 About Me
 
-not to be dramatic but I've spent 7+ years turning "can we automate this" into production systems that actually don't fall over. AI systems architect by trade, chronic shipper by personality. if it involves agents, APIs, or infra that scales — I'm lowkey obsessed.
+AI Systems Architect with 7+ years of experience designing and shipping production-grade AI platforms, multi-agent systems, and cloud-native backend infrastructure. Focused on scalable, real-world AI — not just prototypes.
 
 ```ts
 const rahul = {
     role: "AI Systems Architect",
     experience: "7+ Years",
-    location: "🇮🇳 India",
-
-    stack: [
-        "Python",
-        "Go",
-        "FastAPI",
-        "LangGraph",
-        "Docker",
-        "Kubernetes"
-    ],
-
-    building: "Enterprise AI Platforms",
-
+    location: "India",
+    stack: ["Python", "Go", "FastAPI", "LangGraph", "Docker", "Kubernetes"],
+    focus: "Enterprise AI Platforms",
     motto: "Ship AI. Ship Fast."
 }
 ```
 
 ---
 
-# ⚡ Tech Universe
+## 🧠 Core Skills
 
-built different, powered by these 👇
+**Languages:** Python, Go, TypeScript, SQL
+**Backend Frameworks:** FastAPI, Django, Node.js
+**AI / ML:** LLMs, RAG, Multi-Agent Systems, Prompt Engineering, LangGraph, CrewAI, MCP (Model Context Protocol)
+**Cloud & Infra:** Docker, Kubernetes, AWS, CI/CD, Microservices
+**Databases:** PostgreSQL, MongoDB, Redis, Qdrant (Vector DB)
+**Frontend:** React, Next.js
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,react,nextjs,docker,kubernetes,postgres,redis,mongodb,linux,git&theme=dark"/>
-
 </p>
 
 ---
 
-# 🤖 AI Ecosystem
+## 🤖 AI Ecosystem
 
-the squad I bring to every project, fr fr:
-
-<div align="center">
-
-| 🧠 LLM | ⚡ Framework | 🚀 Infra |
-|:------:|:-----------:|:--------:|
+| LLM Models | Frameworks | Infrastructure |
+|:-----------|:-----------|:----------------|
 | GPT-5 | LangGraph | Kubernetes |
 | Claude | CrewAI | Docker |
 | Gemini | MCP | Redis |
 | OpenAI | RAG | PostgreSQL |
 
-</div>
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|--------------|------------|
+| Multi-Agent Platform | Orchestrated AI agent workflows for enterprise automation | FastAPI, LangGraph |
+| Enterprise RAG System | Retrieval-augmented generation pipeline for internal knowledge search | OpenAI, Qdrant |
+| FastAPI Boilerplate | Production-ready starter template for scalable APIs | Docker, Kubernetes |
+| Go Microservice APIs | High-performance backend services | Go, PostgreSQL |
 
 ---
 
-# 🚀 Featured Projects
-
-main character energy, one repo at a time:
-
-| Project | Tech |
-|---------|------|
-| 🤖 Multi-Agent Platform | FastAPI • LangGraph |
-| 📚 Enterprise RAG | OpenAI • Qdrant |
-| ⚡ FastAPI Boilerplate | Docker • K8s |
-| 🚀 Go APIs | Go • PostgreSQL |
-
----
-
-# 📊 GitHub Dashboard
-
-the receipts 🧾
+## 📊 GitHub Analytics
 
 <p align="center">
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahult017&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rahult017&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahult017&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🌱 Currently Building
+## 🌱 Currently Building
 
-what's cooking rn, it's giving productive era:
-
-```text
-🤖 AI Agents
-🧠 MCP Servers
-⚡ LangGraph
-☁️ Cloud Native APIs
-🚀 Go Microservices
-📚 Enterprise RAG
-```
+- AI Agents & Autonomous Workflows
+- MCP Servers (Model Context Protocol)
+- LangGraph Orchestration Pipelines
+- Cloud-Native APIs
+- Go Microservices
+- Enterprise RAG Systems
 
 ---
+
+## 📫 Connect With Me
 
 <div align="center">
-
-### Connect
-
-pull up, let's talk code 👇
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rahult017)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahult016-52209a145)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:rahult016@gmail.com)
 
-**contributions welcome, come vibe with the codebase 🚀**
+**Open to collaborating on AI platforms, agent systems, and backend architecture.**
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7C3AED,50:00F5FF,100:3B82F6&section=footer&text=BUILDING%20THE%20FUTURE&fontColor=ffffff&fontSize=28"/>
 
