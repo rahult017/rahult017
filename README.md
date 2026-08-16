@@ -1,135 +1,353 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00F5FF,100:7C3AED&text=RAHUL%20THAKUR&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20•%20Backend%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,45:312E81,100:06B6D4&text=RAHUL%20THAKUR&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=AI%20SYSTEMS%20ARCHITECT%20%7C%20BACKEND%20ENGINEER&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Building+AI+That+Scales;FastAPI+•+Go+•+LLMs;Multi-Agent+Systems;Cloud+Native+AI)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=rahult017&style=for-the-badge&color=7C3AED"/>
+<a href="https://github.com/rahult017">
+  <img src="https://img.shields.io/badge/AI%20Systems-Architect-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+<a href="https://github.com/rahult017">
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Go-00F5FF?style=for-the-badge&logo=go&logoColor=white"/>
+</a>
+<a href="https://github.com/rahult017">
+  <img src="https://img.shields.io/badge/Cloud-Native-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+<a href="https://github.com/rahult017">
+  <img src="https://komarev.com/ghpvc/?username=rahult017&style=for-the-badge&color=7C3AED"/>
+</a>
 
-**shipping AI that hits different, no cap 🛸**
+<br/><br/>
+
+### I build AI systems that move from **prototype → production → scale.**
+
+**LLMs · Multi-Agent Systems · RAG · APIs · Distributed Systems · Cloud Infrastructure**
+
+<br/>
+
+<a href="https://github.com/rahult017">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2600&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Designing+production-grade+AI+systems;Building+multi-agent+architectures;Turning+LLMs+into+reliable+products;FastAPI+%E2%80%A2+Go+%E2%80%A2+Kubernetes+%E2%80%A2+Cloud;Engineering+for+scale%2C+not+just+demos"/></a>
 
 </div>
 
 ---
 
-# 👨‍🚀 The Vibe
+# ⚡ About Me
 
-not to be dramatic but I've spent 7+ years turning "can we automate this" into production systems that actually don't fall over. AI systems architect by trade, chronic shipper by personality. if it involves agents, APIs, or infra that scales — I'm lowkey obsessed.
+I'm **Rahul Thakur**, an **AI Systems Architect & Backend Engineer** with **7+ years of experience** building software systems that need to be reliable beyond the demo.
 
-```ts
-const rahul = {
-    role: "AI Systems Architect",
-    experience: "7+ Years",
-    location: "🇮🇳 India",
+My current focus is at the intersection of:
 
-    stack: [
-        "Python",
-        "Go",
-        "FastAPI",
-        "LangGraph",
-        "Docker",
-        "Kubernetes"
-    ],
+```text
+        Artificial Intelligence
+                 │
+        ┌────────┴────────┐
+        │                 │
+   LLM Systems       AI Agents
+        │                 │
+        └────────┬────────┘
+                 │
+        Production Backend
+                 │
+        ┌────────┴────────┐
+        │                 │
+     APIs              Infra
+        │                 │
+        └────────┬────────┘
+                 │
+          Cloud at Scale
+```
 
-    building: "Enterprise AI Platforms",
+I care about the part that happens **after the prototype works**:
 
-    motto: "Ship AI. Ship Fast."
-}
+* How does the system handle 10,000 users?
+* How do agents recover when tools fail?
+* How do we control LLM cost and latency?
+* How do we evaluate AI quality?
+* How do we secure enterprise data?
+* How do we observe, debug and improve AI behavior?
+* How do we turn an AI experiment into a maintainable platform?
+
+**That's the engineering problem I enjoy solving.**
+
+---
+
+# 🧠 My Engineering Philosophy
+
+> **AI is easy to demo.
+> Reliable AI is an engineering discipline.**
+
+I don't optimize only for impressive outputs.
+
+I optimize for:
+
+```text
+Reliability       → systems that don't randomly fall apart
+Scalability       → architecture that grows with demand
+Observability     → know what the AI is actually doing
+Security          → enterprise data stays protected
+Performance       → latency and throughput matter
+Cost              → intelligence needs economic discipline
+Maintainability   → another engineer should understand it
+Product Impact    → technology must solve a real problem
 ```
 
 ---
 
-# ⚡ Tech Universe
-
-built different, powered by these 👇
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,react,nextjs,docker,kubernetes,postgres,redis,mongodb,linux,git&theme=dark"/>
-
-</p>
-
----
-
-# 🤖 AI Ecosystem
-
-the squad I bring to every project, fr fr:
+# 🏗️ What I Build
 
 <div align="center">
 
-| 🧠 LLM | ⚡ Framework | 🚀 Infra |
-|:------:|:-----------:|:--------:|
-| GPT-5 | LangGraph | Kubernetes |
-| Claude | CrewAI | Docker |
-| Gemini | MCP | Redis |
-| OpenAI | RAG | PostgreSQL |
+|           Area           | What I Engineer                                                    |
+| :----------------------: | :----------------------------------------------------------------- |
+|     🤖 **AI Agents**     | Multi-agent workflows, tool calling, orchestration, memory & state |
+|    🧠 **LLM Systems**    | Production LLM applications, structured outputs, evaluations       |
+|        📚 **RAG**        | Enterprise knowledge systems, retrieval pipelines, vector search   |
+|       ⚡ **Backend**      | High-performance APIs, async systems, distributed services         |
+|    ☁️ **Cloud Native**   | Docker, Kubernetes, deployment & scalable infrastructure           |
+| 🔌 **AI Infrastructure** | MCP servers, AI gateways, observability & platform tooling         |
+|   🚀 **Microservices**   | Go/Python services, event-driven architectures & integrations      |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🛠️ Technology Stack
 
-main character energy, one repo at a time:
+### Languages
 
-| Project | Tech |
-|---------|------|
-| 🤖 Multi-Agent Platform | FastAPI • LangGraph |
-| 📚 Enterprise RAG | OpenAI • Qdrant |
-| ⚡ FastAPI Boilerplate | Docker • K8s |
-| 🚀 Go APIs | Go • PostgreSQL |
+<p>
+<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,bash&theme=dark"/>
+</p>
+
+### Backend & Application
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react,nextjs&theme=dark"/>
+</p>
+
+### AI / LLM Engineering
+
+```text
+LLM Applications
+├── Agentic AI
+├── Multi-Agent Systems
+├── RAG
+├── Tool Calling
+├── Structured Outputs
+├── AI Workflows
+├── MCP
+├── Prompt Engineering
+├── Evaluation
+└── AI Observability
+```
+
+### Infrastructure & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,redis,mongodb,linux,git&theme=dark"/>
+</p>
 
 ---
 
-# 📊 GitHub Dashboard
+# 🤖 AI Architecture
 
-the receipts 🧾
+I’m particularly interested in architectures where an LLM is **one component of a larger engineered system**, not the entire application.
 
-<p align="center">
+```text
+                    ┌──────────────┐
+                    │   Client /   │
+                    │   Product    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   API Gateway   │
+                  └────────┬────────┘
+                           │
+                           ▼
+              ┌────────────────────────┐
+              │     AI Orchestrator    │
+              │     LangGraph / etc.   │
+              └───────────┬────────────┘
+                          │
+             ┌────────────┼────────────┐
+             ▼            ▼            ▼
+        ┌─────────┐  ┌─────────┐  ┌─────────┐
+        │ Agent A │  │ Agent B │  │ Agent C │
+        └────┬────┘  └────┬────┘  └────┬────┘
+             │            │            │
+             └────────────┼────────────┘
+                          ▼
+                 ┌─────────────────┐
+                 │ Tools / MCP /   │
+                 │ External APIs   │
+                 └────────┬────────┘
+                          │
+             ┌────────────┼────────────┐
+             ▼            ▼            ▼
+          Vector DB    PostgreSQL    Redis
+             │
+             ▼
+       Enterprise Data
+```
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahult017&show_icons=true&theme=tokyonight&hide_border=true"/>
+The interesting engineering isn't simply **“call an LLM.”**
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rahult017&theme=tokyonight&hide_border=true"/>
+It's making the entire system **observable, controllable, secure and production-ready.**
 
-</p>
+---
 
-<p align="center">
+# 🚀 Selected Builds
+
+### 🤖 Multi-Agent AI Platform
+
+**FastAPI · LangGraph · LLMs · Redis · PostgreSQL**
+
+A platform for orchestrating specialized AI agents, tool execution, state management and complex workflows.
+
+**Focus:** orchestration · reliability · extensibility · production APIs
+
+---
+
+### 📚 Enterprise RAG Platform
+
+**LLMs · RAG · Qdrant · PostgreSQL · FastAPI**
+
+Knowledge systems designed around retrieval quality, contextual answers and enterprise data boundaries.
+
+**Focus:** retrieval · grounding · document pipelines · evaluation
+
+---
+
+### ⚡ Production FastAPI Boilerplate
+
+**FastAPI · Docker · Kubernetes · PostgreSQL · Redis**
+
+A production-oriented backend foundation for rapidly launching scalable APIs.
+
+**Focus:** clean architecture · async workloads · containers · deployment
+
+---
+
+### 🚀 Go Microservices
+
+**Go · PostgreSQL · Redis · REST APIs**
+
+High-performance backend services designed around simplicity, concurrency and operational reliability.
+
+**Focus:** performance · concurrency · distributed systems
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahult017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=rahult017&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahult017&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🌱 Currently Building
-
-what's cooking rn, it's giving productive era:
+# 🔭 Currently Exploring
 
 ```text
-🤖 AI Agents
-🧠 MCP Servers
-⚡ LangGraph
-☁️ Cloud Native APIs
-🚀 Go Microservices
-📚 Enterprise RAG
+┌──────────────────────────────────────────────┐
+│                                              │
+│  🤖 Agentic AI                              │
+│  🧩 Multi-Agent Architecture                │
+│  🔌 Model Context Protocol (MCP)            │
+│  🧠 LLM Evaluation & Observability          │
+│  📚 Enterprise RAG                          │
+│  ⚡ High-Performance Go Services             │
+│  ☁️ Cloud-Native AI Platforms               │
+│  🏗️ AI Infrastructure                       │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
+# 💡 How I Can Help
+
+If you're building something ambitious, I can contribute across the stack.
+
+### For Founders / CEOs
+
+Need to turn an AI idea into a real product?
+
+**I can help architect the system from the first API to production infrastructure.**
+
+### For Engineering Teams
+
+Need someone who can bridge **AI + backend + infrastructure**?
+
+**That's where I operate best.**
+
+### For AI Startups
+
+Building agents, RAG, AI automation or LLM infrastructure?
+
+**Let's think beyond the prototype and design for production.**
+
+### For Open Source
+
+Have an interesting AI infrastructure problem?
+
+**I'm interested in building useful things with strong engineering fundamentals.**
+
+---
+
+# 🤝 Let's Build Something Difficult
+
+I'm especially interested in collaborating on:
+
+```text
+AI Infrastructure
+Agentic AI
+Developer Tools
+Enterprise AI
+AI Automation
+Distributed Systems
+Cloud-Native Platforms
+Open Source
+```
+
+If you're building something where **AI meets serious engineering**, I'd love to hear about it.
+
 <div align="center">
 
-### Connect
+### Don't just ask an LLM what to build.
 
-pull up, let's talk code 👇
+### **Build the system around it.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rahult017)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahult016-52209a145)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:rahult016@gmail.com)
+<br/>
 
-**contributions welcome, come vibe with the codebase 🚀**
+<a href="https://github.com/rahult017">
+<img src="https://img.shields.io/badge/GitHub-rahult017-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<br><br>
+<a href="https://linkedin.com/in/rahult016-52209a145">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7C3AED,50:00F5FF,100:3B82F6&section=footer&text=BUILDING%20THE%20FUTURE&fontColor=ffffff&fontSize=28"/>
+<a href="mailto:rahult016@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Open to:** AI collaborations · interesting engineering problems · open source · product opportunities
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:312E81,50:06B6D4,100:0F172A&section=footer&text=BUILD%20SYSTEMS%20THAT%20MATTER&fontColor=ffffff&fontSize=26"/>
 
 </div>
