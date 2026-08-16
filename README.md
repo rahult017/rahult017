@@ -1,157 +1,135 @@
-# 👋 Hi, I'm Rahul Thakur
+<div align="center">
 
-🏗️ **AI Systems Architect | Backend Engineer**  
-Building production-grade AI systems and scalable backends for 7+ years.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00F5FF,100:7C3AED&text=RAHUL%20THAKUR&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20•%20Backend%20Engineer&descAlignY=58"/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Building+AI+That+Scales;FastAPI+•+Go+•+LLMs;Multi-Agent+Systems;Cloud+Native+AI)](https://git.io/typing-svg)
 
-## 🎯 About Me
+<img src="https://komarev.com/ghpvc/?username=rahult017&style=for-the-badge&color=7C3AED"/>
 
-Senior engineer with 7+ years building production AI systems and scalable backend infrastructure. Specialized in multi-agent AI systems, retrieval-augmented generation (RAG), and cloud-native architecture. I turn complex problems into clean, scalable APIs and automate everything I can get my hands on.
+**shipping AI that hits different, no cap 🛸**
 
-- 🧠 **Currently exploring:** Multi-Agent Systems, Model Context Protocol (MCP), and advanced RAG architectures
-- 🌐 **Location:** [Your City, Country] | [Your Timezone]
-- 📧 **Email:** rahult016@gmail.com
-- 🔗 **Connect:** [LinkedIn](linkedin.com/in/rahult016-52209a145) | [Portfolio](github.com/rahult017)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍🚀 The Vibe
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+not to be dramatic but I've spent 7+ years turning "can we automate this" into production systems that actually don't fall over. AI systems architect by trade, chronic shipper by personality. if it involves agents, APIs, or infra that scales — I'm lowkey obsessed.
 
-### Backend & Architecture
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgen&logoColor=white)
+```ts
+const rahul = {
+    role: "AI Systems Architect",
+    experience: "7+ Years",
+    location: "🇮🇳 India",
 
-### AI & Machine Learning
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=ai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FFD700?style=for-the-badge&logo=openai&logoColor=black)
+    stack: [
+        "Python",
+        "Go",
+        "FastAPI",
+        "LangGraph",
+        "Docker",
+        "Kubernetes"
+    ],
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+    building: "Enterprise AI Platforms",
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-4A90E2?style=for-the-badge&logo=qdrant&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+    motto: "Ship AI. Ship Fast."
+}
+```
 
 ---
 
-## 🚀 What I've Built
+# ⚡ Tech Universe
 
-- **AI Platforms** — End-to-end production systems for LLM deployment and RAG pipelines
-- **Multi-Agent Orchestration** — Autonomous agent workflows for complex data processing and research
-- **Scalable APIs** — High-throughput microservices (FastAPI, Django) handling millions of requests
-- **RAG Pipelines** — Enterprise-grade knowledge retrieval systems using Qdrant and custom embeddings
-- **Cloud-Native Infra** — Kubernetes-first architectures with automated CI/CD on AWS
+built different, powered by these 👇
 
----
+<p align="center">
 
-## 💼 Experience Highlights
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,react,nextjs,docker,kubernetes,postgres,redis,mongodb,linux,git&theme=dark"/>
 
-### 🎯 Production AI Systems
-- Designed and deployed multi-agent systems using LangGraph for complex workflows
-- Built RAG pipelines achieving 95%+ retrieval accuracy on enterprise data
-- Architected microservices handling 10M+ daily API requests with <100ms latency
-
-### 🏗️ Scalable Backend Engineering
-- Developed high-throughput APIs with FastAPI and Django, processing 5K+ requests/second
-- Implemented distributed caching with Redis, reducing database load by 70%
-- Designed event-driven architectures using message queues for async processing
-
-### ☁️ Cloud & DevOps
-- Managed Kubernetes clusters on AWS, automating deployments with GitOps
-- Implemented CI/CD pipelines reducing deployment time from 2 hours to 15 minutes
-- Optimized cloud costs by 40% through right-sizing and auto-scaling strategies
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🤖 AI Ecosystem
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahult017&show_icons=true&theme=radical&count_private=true)
+the squad I bring to every project, fr fr:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahult017&layout=compact&theme=radical)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahult017&theme=radical)
+| 🧠 LLM | ⚡ Framework | 🚀 Infra |
+|:------:|:-----------:|:--------:|
+| GPT-5 | LangGraph | Kubernetes |
+| Claude | CrewAI | Docker |
+| Gemini | MCP | Redis |
+| OpenAI | RAG | PostgreSQL |
 
----
-
-## 🏆 Achievements & Certifications
-
-- 🎯 **Google Certified Python Developer**
-- 🎯 **AWS Certified Solutions Architect**
-- 🎯 **Kubernetes Certified Administrator (CKA)**
-- 🚀 Built AI chatbot handling 50K+ daily conversations
-- 🏗️ Led team of 5 engineers on fintech platform serving 1M+ users
+</div>
 
 ---
 
-## 📌 Pinned Repositories
+# 🚀 Featured Projects
 
-<!-- 
-  To pin these repositories, go to your GitHub profile, 
-  click "Customize your pins", and select these repos.
-  
-  Make sure each repository has a good README with:
-  - Clear project description
-  - Tech stack used
-  - Installation/setup instructions
-  - Usage examples
--->
+main character energy, one repo at a time:
 
-| Repository | Description |
-|:-----------|:------------|
-| **[agent-orchestrator](https://github.com/rahult017/agent-orchestrator)** | Multi-agent workflow orchestration using LangGraph and MCP |
-| **[rag-kb-engine](https://github.com/rahult017/rag-kb-engine)** | Production RAG pipeline with Qdrant, FastAPI, and streaming |
-| **[k8s-ai-deploy](https://github.com/rahult017/k8s-ai-deploy)** | Kubernetes operators for deploying AI models at scale |
-| **[fastapi-boilerplate](https://github.com/rahult017/fastapi-boilerplate)** | Production-ready FastAPI with Redis, Celery, and Docker |
-| **[go-microservice](https://github.com/rahult017/go-microservice)** | High-performance gRPC microservice with Go and Kubernetes |
-| **[llm-eval-tool](https://github.com/rahult017/llm-eval-tool)** | Evaluation framework for LLM responses and RAG quality |
+| Project | Tech |
+|---------|------|
+| 🤖 Multi-Agent Platform | FastAPI • LangGraph |
+| 📚 Enterprise RAG | OpenAI • Qdrant |
+| ⚡ FastAPI Boilerplate | Docker • K8s |
+| 🚀 Go APIs | Go • PostgreSQL |
 
 ---
 
-## 🎯 Open To
+# 📊 GitHub Dashboard
 
-- 💼 **Senior/Staff Backend Engineer** roles
-- 🤖 **AI Systems Architect** positions  
-- 👥 **Technical Leadership** opportunities
-- 📊 **Consulting** on AI platform architecture
+the receipts 🧾
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahult017&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rahult017&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahult017&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Get In Touch
+# 🌱 Currently Building
 
-- **Email:** rahult016@gmail.com
-- **LinkedIn:** [linkedin.com/in/rahult016-52209a145](linkedin.com/in/rahult016-52209a145)
-- **GitHub:** [github.com/rahult017](github.com/rahult017)
+what's cooking rn, it's giving productive era:
 
----
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahult017&theme=react-dark)
+```text
+🤖 AI Agents
+🧠 MCP Servers
+⚡ LangGraph
+☁️ Cloud Native APIs
+🚀 Go Microservices
+📚 Enterprise RAG
+```
 
 ---
 
 <div align="center">
-  
-### 💡 "Building the future, one line of code at a time"
 
-⭐️ **Star** my repositories if you find them useful!
+### Connect
+
+pull up, let's talk code 👇
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rahult017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahult016-52209a145)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:rahult016@gmail.com)
+
+**contributions welcome, come vibe with the codebase 🚀**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7C3AED,50:00F5FF,100:3B82F6&section=footer&text=BUILDING%20THE%20FUTURE&fontColor=ffffff&fontSize=28"/>
 
 </div>
