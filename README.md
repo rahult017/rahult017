@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Optional: add your custom cyberpunk banner at assets/rahul-ai-banner.png -->
-<img src="assets/rahul-ai-banner.png" alt="Cyberpunk AI engineering banner for Rahul Thakur" width="100%" />
+<img src="assets/rahul-ai-banner.png" alt="Rahul Thakur — cyberpunk AI engineering banner" width="100%" />
 
-# `> SYSTEM.ONLINE`
-
-## Hi, I'm Rahul Thakur 👋
+# Rahul Thakur 👋
 
 ### Senior Software Engineer · Python Developer · GenAI Engineer
 
@@ -13,7 +10,7 @@
 
 [![Python](https://img.shields.io/badge/Python-Engineer-00E5FF?style=for-the-badge&logo=python&logoColor=white&labelColor=080B18)](#tech-stack)
 [![GenAI](https://img.shields.io/badge/GENAI-BUILDER-BB86FC?style=for-the-badge&labelColor=080B18)](#ai-lab)
-[![GitHub](https://img.shields.io/badge/GITHUB-rahult017-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B18)](https://github.com/rahult017)
+[![GitHub](https://img.shields.io/badge/GitHub-rahult017-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B18)](https://github.com/rahult017)
 
 </div>
 
@@ -21,7 +18,7 @@
 
 <div align="center">
 
-**[⌂ HOME](#systemonline)　·　[◈ ABOUT](#about)　·　[⌬ AI LAB](#ai-lab)　·　[▦ TECH STACK](#tech-stack)　·　[⌘ PROJECTS](#featured-projects)　·　[◉ STATS](#github-stats)　·　[➤ CONNECT](#connect)
+**[⌂ HOME](#rahul-thakur-)　·　[◈ ABOUT](#about)　·　[⌬ AI LAB](#ai-lab)　·　[▦ TECH STACK](#tech-stack)　·　[⌘ PROJECTS](#featured-projects)　·　[◉ STATS](#github-stats)　·　[➤ CONNECT](#connect)
 
 </div>
 
@@ -55,14 +52,12 @@ I enjoy working across backend engineering and modern AI systems—from reliable
 | `01` — Generative AI | GenAI applications and prompt engineering |
 | `02` — Retrieval-Augmented Generation | RAG systems and LLM-powered experiences |
 | `03` — Agentic AI | Agent-based workflows and intelligent automation |
-| `04` — AI Integration | LLM integration and MCP servers |
+| `04` — AI Integration | MCP servers and LLM integration |
 | `05` — Automation | Practical tools that streamline software workflows |
 
 **Mission:** Build intelligent, useful software by combining dependable engineering with modern AI capabilities.
 
 ## `03 / TECH STACK` <a id="tech-stack"></a>
-
-*Tools and technologies I work with.*
 
 <div align="center">
 
@@ -70,60 +65,49 @@ I enjoy working across backend engineering and modern AI systems—from reliable
 
 </div>
 
-### Languages
-`Python` · `JavaScript` · `SQL`
-
-### Backend
-`Django` · `Django REST Framework` · `Flask` · `FastAPI`
-
-### Frontend & Mobile
-`React` · `React Native` · `HTML` · `CSS` · `Bootstrap`
-
-### Databases
-`PostgreSQL` · `MongoDB`
-
-### AI / ML & GenAI
-`RAG` · `Agentic AI` · `Generative AI` · `Prompt Engineering` · `TensorFlow` · `Scikit-learn` · `Pandas`
-
-### AI Integration
-`MCP Servers` · `LLM Integration`
-
-### DevOps & Delivery
-`Docker` · `GitHub Actions` · `Jenkins` · `Nginx`
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, SQL |
+| **Backend** | Django, Django REST Framework, Flask, FastAPI |
+| **Frontend & Mobile** | React, React Native, HTML, CSS, Bootstrap |
+| **Databases** | PostgreSQL, MongoDB |
+| **AI / ML & GenAI** | RAG, Agentic AI, Generative AI, Prompt Engineering, TensorFlow, Scikit-learn, Pandas |
+| **AI Integration** | MCP Servers, LLM Integration |
+| **DevOps** | Docker, GitHub Actions, Jenkins, Nginx |
 
 ## `04 / FEATURED PROJECTS` <a id="featured-projects"></a>
 
 *Selected projects from my engineering toolkit.*
-
-> Add repository links and concise descriptions when ready. Project links are intentionally not guessed.
 
 ### ◈ AI-Based Interview Management System
 
 An AI-focused interview management project.
 
 - **Focus:** Interview workflows and AI-powered functionality
-- **Repository:** [Add repository URL](https://github.com/rahult017)
+- **Repository:** [Find projects on my GitHub](https://github.com/rahult017)
 
 ### ◈ Xtesting Framework
 
 A testing framework project.
 
 - **Focus:** Software testing and framework tooling
-- **Repository:** [Add repository URL](https://github.com/rahult017)
+- **Repository:** [Find projects on my GitHub](https://github.com/rahult017)
 
 ### ◈ URLFilterDB
 
-A project focused on URL filtering and database-related functionality.
+A project focused on URL filtering.
 
-- **Focus:** URL filtering
-- **Repository:** [Add repository URL](https://github.com/rahult017)
+- **Focus:** URL filtering and database-related functionality
+- **Repository:** [Find projects on my GitHub](https://github.com/rahult017)
 
 ### ◈ IWF Tool
 
 A software tool in my project portfolio.
 
-- **Focus:** [Add a short description]
-- **Repository:** [Add repository URL](https://github.com/rahult017)
+- **Focus:** Workflow and productivity tooling
+- **Repository:** [Find projects on my GitHub](https://github.com/rahult017)
+
+> Project links above lead to your GitHub profile because exact repository URLs were not supplied. Replace each with its direct repository URL when available.
 
 ## `05 / GITHUB STATS` <a id="github-stats"></a>
 
